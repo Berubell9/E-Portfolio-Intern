@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "Monopoly Game",
+      "detail": "เกมเศรษฐีสุดหรรษาของเหล่าราชาเเห่งโลกทุนนิยมที่คุณสามารถเป็นนายทุน เเละครอบครองอสังหาริมทรัพย์เหนือจิตนาการได้ เนื่องจากโลกใบนี้เเคบเกินไปจึงทำให้เกมนี้สามารถเล่นได้เเค่นายทุน 2 คนเท่านั้น",
+      "link": "https://github.com/Berubell9/CS_Monopoly_Java",
+      "image": "image/1.png",
+      "imageMore": "image/9.png",
+      "language": "Java (OOP & GUI)",
+      "icon": "Github"
+    },
+    {
+      "id": 2,
+      "name": "Searching Pokemon Website",
+      "detail": "สวมรอยเป็นโปรเกมอนเทรนเนอร์เพื่อตามจับโปรเกมอนข้างทาง เเล้วเราจะรู้ได้ไงละว่าโปรเกมอนชนิดนั้นมีความสามารถอะไร งั้นก็ใช้ Pokedex ของเราสิ เรารวมทุกอย่างไว้ที่นั่นหมดเเล้ว",
+      "link": "https://github.com/Berubell9/PJOS_Searching_Pokemon_API",
+      "image": "image/2.png",
+      "imageMore": "image/10.png",
+      "language": "HTML, CSS, JavaScript",
+      "icon": "Github"
+    },
+    {
+      "id": 3,
+      "name": "Chat With Doctor",
+      "detail": "เนื่องจากสังคมในปัจจุบันมีปัญหาเรื่องสุขภาพกันมากขึ้น แต่การเข้าพบแพทย์เพื่อต้องการคำปรึกษา และคำวินิจฉัยอาการป่วยที่โรงพยาบาลนั้นมักจะใช้ระยะเวลาที่นาน จากปัญหาดังกล่าวจึงทำให้เกิดการออกเเบบแอปพลิเคชันที่มีชื่อว่า “แชทกับหมอ” เป็นแอปพลิเคชันที่เข้ามาช่วยให้ผู้ใช้งานสามารถใกล้ชิดมือหมอได้มากยิ่งขึ้น เเละห่างไกลจากโรค Covid-19 ที่อาจจะติดกลับมาจากโรงพยาบาลได้ อีกทั้งยังสามารถขอคำปรึกษาจากแพทย์ เเละยังสามารถนัดพบแพทย์ได้โดยใช้ช่องทางออนไลน์เพื่อเช็คอาการป่วยได้ด้วยตนเองอีกด้วย",
+      "link": "https://www.figma.com/design/1knDorq73l8yorfJcaRzps/Chat-with-doctor?node-id=0-1&node-type=canvas&t=EWWyKdgiTs0iCvC6-0",
+      "image": "image/3.png",
+      "imageMore": "image/11.png",
+      "language": "Figma",
+      "icon": "Figma"
+    },
+    {
+      "id": 4,
+      "name": "Tee Chords",
+      "detail": "เเอปพลิเคชัน “Tee Chords” ( ตีคอร์ด ) เป็นเเอปพลิเคชันที่ออกเเบบมาเพื่อมุ้งเน้นในการให้ความรู้ ได้เเก่ วิธีการฝึกจับคอร์ด ,การฝึกฟังเสียงคอร์ดของเเต่ละคีย์ เเละการนำมาประยุกต์เพื่อเล่นเพลงต่างๆ เหมาะสำหรับทุกเพศทุกวัยที่อยากจะฝึกเล่นเครื่องดนตรีสากลประเภทสาย เช่น กีตาร์ เบส อูคูเลเล่ เป็นต้น พร้อมทั้งมีจูนเนอร์ เเละคอร์ดของเพลงที่เเบ่งความยากง่าย เเบ่งเสียงไว้ให้สำหรับได้ฝึกฝนอีกด้วย",
+      "link": "https://www.figma.com/design/NHbJSFA7F2H4ghuE5cZZj2/65050022?node-id=142-720&node-type=frame&t=BUCbjUVli5rS121R-0",
+      "image": "image/4.png",
+      "imageMore": "image/12.png",
+      "language": "Figma",
+      "icon": "Figma"
+    },
+    {
+      "id": 5,
+      "name": "PURIRI Focus Time",
+      "detail": "เว็บไซต์ “Puri Puri” (พูริ พูริ) เป็นเว็บไซต์ที่ออกเเบบมาเพื่อมุ่งเน้นในการจัดการเวลาอย่างมีประสิทธิภาพ เหมาะสำหรับนักเรียน และนักศึกษาที่มักจะพบปัญหาในการจดจ่อ เเละแบ่งเวลาในการทำกิจกรรมต่างๆ ดังนั้น Puri Puri จึงเน้นการออกแบบที่เป็นมิตรต่อผู้ใช้งาน และเหมาะสำหรับทุกเพศทุกวัยให้สามารถจัดสรรเวลาด้วยตัวเองได้",
+      "link": "https://www.figma.com/design/Yoc4LFNZNxgKnMA9s77SDj/Focustimer?node-id=2-2&node-type=canvas&t=FfDfTsb4L73dkSJi-0",
+      "image": "image/5.png",
+      "imageMore": "image/13.png",
+      "language": "Figma",
+      "icon": "Figma"
+    },
+    {
+      "id": 6,
+      "name": "Chrome Extensions For Color Blindness",
+      "detail": "ในปัจจุบันการใช้งานเว็บไซต์ผ่านคอมพิวเตอร์เป็นสิ่งที่ทำกันในกิจวัตรประจำวัน ไม่ว่าจะเป็นงานด้านการออกแบบ ,กราฟิก ,การอ่านข้อมูล หรือการทำงานที่ต้องใช้การแยกแยะสี สำหรับผู้ที่มีภาวะตาบอดสี ได้เเก่ ตาบอดสีเขียว, ตาบอดสีแดง และตาบอดสีน้ำเงิน เป็นต้น ไม่สามารถแยกแยะสีบางสีได้อย่างถูกต้อง ดังนั้นการพัฒนาโปรแกรมส่วนขยายสำหรับ Chrome Engine ที่สามารถปรับสีหน้าจอเว็บไซต์ได้ จะช่วยให้ผู้ที่มีภาวะตาบอดสีสามารถเเยกเเยะความเเตกต่างของสีได้ดียิ่งขึ้น อีกทั้งยังเพิ่มโอกาสในการทำงานในสายอาชีพต่าง ๆ และยังช่วยให้เข้าใจผู้ที่มีภาวะตาบอดสีได้อีกด้วย",
+      "link": "https://github.com/Berubell9/Chrome_Extensions_For_Color_Blindness?tab=readme-ov-file",
+      "image": "image/6.png",
+      "imageMore": "image/14.png",
+      "language": "HTML, CSS, JavaScript, JQuery",
+      "icon": "Github"
+    },
+    {
+      "id": 7,
+      "name": "Age Is Just A Number Game Website",
+      "detail": "เว็บไซต์เกมทายเชื้อชาติ เพศ เเละช่วงอายุจากใบหน้าบุคคล ที่มีการนำโมเดล Ai มาใช้ในการประมวลผลภาพใบหน้าเพื่อนำคำตอบที่ได้ไปสร้างโจทย์เกมเพื่อเล่นกับเพื่อนๆ สามารถรองรับผู้เล่นได้หลายคน ตัวเว็บไซต์คล้ายกับ Kahoot! เมื่อเล่นเสร็จมีการสรุปอันดับ เเละคะเเนนให้ผู้เล่น ",
+      "link": "https://github.com/3032126/Ethnicity-Detection-Model",
+      "image": "image/7.png",
+      "imageMore": "image/15.png",
+      "language": "HTML, CSS, JavaScript, MongoDB, Nodejs, Python",
+      "icon": "Github"
+    },
+    {
+      "id": 8,
+      "name": "E-Portfolio",
+      "detail": "เว็บไซต์ Portfolio เพื่อใช้ในการยื่นเข้าศึกษาระดับมหาวิทยาลัย ในเว็บไซต์นี้ได้เก็บรวบรวมประวัติส่วนตัว ,ผลงาน ,กิจกรม เเละเกียรติบัตร ทั้งด้านคอมพิวเตอร์ เเละด้านอื่นๆเอาไว้ Gibhub : https://github.com/Berubell9/E-Portfolio",
+      "link": "https://e-portfolio-kornkamol-a2560.web.app/",
+      "image": "image/8.png",
+      "imageMore": "image/16.png",
+      "language": "HTML, CSS, JavaScript",
+      "icon": "Website"
+    }
+  ]
+  
