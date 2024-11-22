@@ -13,3 +13,7 @@ https://e-portfolio-intern.firebaseapp.com
 
 ## **How to deploy website**
 [Youtube](https://www.youtube.com/watch?v=B7cUCfM4Wg4)
+
+#### หมายเหตุ
+* รูปอยู่ในโฟลเดอร์ image
+* ข้อมูลอยู่ใน data.json 
