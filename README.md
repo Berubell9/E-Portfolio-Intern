@@ -6,7 +6,6 @@ https://e-portfolio-intern.firebaseapp.com
 1. git clone https://github.com/Berubell9/E-Portfolio-Intern.git
 2. cd frontend
 3. code .
-
 **In VSCode**
 4. new terminal
 5. npm start
