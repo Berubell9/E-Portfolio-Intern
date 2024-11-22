@@ -7,4 +7,4 @@ https://e-portfolio-intern.firebaseapp.com
 3. URL : http://localhost:3000
 
 ## **How to deploy website**
-tag [Youtube](https://www.youtube.com/watch?v=B7cUCfM4Wg4)
+[Youtube](https://www.youtube.com/watch?v=B7cUCfM4Wg4)
