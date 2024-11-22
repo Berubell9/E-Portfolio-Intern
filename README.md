@@ -15,5 +15,6 @@ https://e-portfolio-intern.firebaseapp.com
 [Youtube](https://www.youtube.com/watch?v=B7cUCfM4Wg4)
 
 #### หมายเหตุ
+ในโฟลเดอร์ Pubilc
 * รูปอยู่ในโฟลเดอร์ image
 * ข้อมูลอยู่ใน data.json 
